@@ -1,1 +1,12 @@
+title: My awesome title
+author: Frolov Ilja
+email: frolov.ilja.v@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Little blog about some interesting things
+# social links
+twitter_username: no account :)
+github_username:  @FrolovIlja
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-cayman
